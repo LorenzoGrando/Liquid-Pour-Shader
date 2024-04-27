@@ -6,5 +6,4 @@ Wave Ripple Texture was also made by the author, using a simple unlit material s
 
 
 
-<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
-"/>
+![](pouringGif.gif)
