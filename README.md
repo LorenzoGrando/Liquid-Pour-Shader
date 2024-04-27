@@ -6,5 +6,4 @@ Wave Ripple Texture was also made by the author, using a simple unlit material s
 
 
 
-https://github.com/LorenzoGrando/Liquid-Pour-Shader/assets/112523573/eb8dd656-61cc-4103-bd86-4c2e7bd203f5
-
+![me]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNtdHNlbzBxZmFsNmc4MmsxYWcyeDhzMm85enFjZXFuc3p3ejFncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/abOAS1J91sK5S7PkJr/giphy.gif
